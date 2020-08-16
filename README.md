@@ -15,7 +15,7 @@ The sinking of the Titanic remains to be one of the most infamous shipwrecks in 
 Using the spambase dataset, this project makes use of the Gaussian Naive Bayes Classifier to predict which messages are spam and which messages are not spam based on frequecy of certain words, characters and capitalization of letters. In an attempt to improve model performance, tecnhiques such as upsampling and dropping correlated features have been employed. The Support Vector Machines has also been used to compare how the two models will perform on the data.
      
  ## Installation Requirements
-1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Moringa_Datascience_Core_Week_8_IP.git
+1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Core_Week_9_IP_Notebook---Classification_Models
 
 2. Navigate to the project directory: cd pandas
 
