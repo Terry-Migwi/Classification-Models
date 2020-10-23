@@ -9,10 +9,10 @@ Terry Migwi
 
 ## Project Description
 ### 1. K Nearest Neighbors
-The sinking of the Titanic remains to be one of the most infamous shipwrecks in history. It resulted to the death of 1502 out of 2224 passengers. This project makes use of the Titanic dataset to build a model that predicts which of the passengers were most likely to survive the Titanic shipwreck. The main model used is the KNN classifier where different techniques have been employed to improve the performance of the model. 
+This project makes use of the Titanic dataset to build a model that predicts which of the passengers were most likely to survive the Titanic shipwreck. Comprehensive Exploratory Data Analysis has been performed on the variables and a prediction of persons who survived vs persons who did not survive has been performed using K-Nearest Neighbors classifier where different techniques such as finding the optimal number of K and changing the distance metrics have been employed to improve the performance of the model. 
 
 ### 2. Naive Bayes Classifier
-Using the spambase dataset, this project makes use of the Gaussian Naive Bayes Classifier to predict which messages are spam and which messages are not spam based on frequecy of certain words, characters and capitalization of letters. In an attempt to improve model performance, tecnhiques such as upsampling and dropping correlated features have been employed. The Support Vector Machines has also been used to compare how the two models will perform on the data.
+Using the spambase dataset, this project makes use of the Gaussian Naive Bayes Classifier to predict which messages are spam and which messages are not spam based on frequecy of certain words, characters and capitalization of letters. In an attempt to improve model performance, techniques such as upsampling and dropping correlated features have been employed. The Support Vector Machines has also been used to compare which of the models performed best on this dataset.
      
  ## Installation Requirements
 1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Core_Week_9_IP_Notebook---Classification_Models
