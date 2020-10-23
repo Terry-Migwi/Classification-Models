@@ -15,7 +15,7 @@ This project makes use of the Titanic dataset to build a model that predicts whi
 Using the spambase dataset, this project makes use of the Gaussian Naive Bayes Classifier to predict which messages are spam and which messages are not spam based on frequecy of certain words, characters and capitalization of letters. In an attempt to improve model performance, techniques such as upsampling and dropping correlated features have been employed. The Support Vector Machines has also been used to compare which of the models performed best on this dataset.
      
  ## Installation Requirements
-1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Core_Week_9_IP_Notebook---Classification_Models
+1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Classification-Models.git
 
 2. Navigate to the project directory: cd pandas
 
